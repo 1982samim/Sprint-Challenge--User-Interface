@@ -1,0 +1,19 @@
+1-If you were to describe semantic HTML to the next cohort of students, what would you say?
+HTML that introduces meaning to the web page rather than just presentation
+
+2-Name two big differences between display: block; and display: inline;.
+Display:block; respects height/width while Display:inline doesn’t.
+Elements react to vertical margin/padding {display:inline doesn’t, display:block does}
+
+
+3-What are the 4 areas of the box model?
+Content, Padding, Border and Margin
+
+
+4-While using flexbox, what axis does the following property work on: align-items: center?
+align-items: center; The flexbox items are aligned at the center of the cross axisl. This means the flexbox items will be centered vertically.
+
+
+5-Explain why git is valuable to a team of developers.
+Git branches are easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
